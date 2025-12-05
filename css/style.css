@@ -112,7 +112,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url(/css/images/Ebackground2.png) no-repeat;
+    background: url(/FInalwebdev/images/Ebackground2.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
